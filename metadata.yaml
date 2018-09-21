@@ -1,11 +1,16 @@
 _repo: The-Historical-Evidence-for-the-Virgin-Birth_54858
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54858-tei/images/cover.jpg
 creator:
   author:
     agent_name: Taylor, Vincent
     gutenberg_agent_id: '48074'
     url: http://www.gutenberg.org/2009/agents/48074
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54858#The-Historical-Evidence-for-the-Virgin-Birth
 gutenberg_issued: '2017-06-06'
 gutenberg_type: Text
 identifiers:
